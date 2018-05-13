@@ -31,8 +31,9 @@ Contents &amp; script for generating a flash image for HAM radio using UDRC
  paclink-unix    | Winlink    | S | https://github.com/nwdigitalradio/paclink-unix | Active |
  RMS Gateway     | Winlink    | S | http://k4gbb.no-ip.info/docs/scripts/rmsgw-2.4.0-181.1.tar.bz2 | Active
  nixtracker      | APRS       | S | https://github.com/n7nix/nixtracker | Active |
- Xaster          | APRS       | P | xastir | Active |
- fldigi          | HF         |   |  |  |
- ARDOP           | HF Winlink | S |  | In Dev |
+ Xastir          | APRS       | P | xastir | Active |
+ fldigi          | HF         |   |  |  | Dev |
+ wsjt-x          | HF         | P | wsjtx | Dev |
+ ARDOP           | HF Winlink | S |  | Dev |
  chirp           | Util       | S |  | Proposed |
 
