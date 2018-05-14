@@ -21,16 +21,16 @@ Contents &amp; script for generating a flash image for HAM radio using UDRC
 | Name     | Group  | Origin  | Version  |
 | :------- | :----: | :------ | :------: |
  Direwolf        | Core    | https://github.com/wb2osz/direwolf/archive/1.5-beta2.tar.gz | 1.5-beta2 |
- AX.25 lib/tools | Core    | https://github.com/ve7fet/linuxax25/archive/master.zip |  |
+ AX.25 lib/tools | Core    | https://github.com/ve7fet/linuxax25/archive/master.zip | 1.1.0 |
  paclink-unix    | Winlink | https://github.com/nwdigitalradio/paclink-unix | 0.7 |
- RMS Gateway     | Winlink | http://k4gbb.no-ip.info/docs/scripts/rmsgw-2.4.0-181.1.tar.bz2 | |
+ RMS Gateway     | Winlink | http://k4gbb.no-ip.info/docs/scripts/rmsgw-2.4.0-181.1.tar.bz2 | 2.4.0-181.1 |
  nixtracker      | APRS    | https://github.com/n7nix/nixtracker | 1.2 |
  Xastir          | APRS    | xastir | v2.0.4 |
  fldigi          | HF      | https://sourceforge.net/projects/fldigi/files/fldigi/ | 4.0.16 |
- wsjt-x          | HF      | wsjtx |  |
- ARDOPC          | ARDOP   | http://www.cantab.net/users/john.wiseman/Downloads/Beta/piardopc |
+ wsjt-x          | HF      | wsjtx | 1.90-rc3 |
+ ARDOPC          | ARDOP   | http://www.cantab.net/users/john.wiseman/Downloads/Beta/piardopc | 20180501 |
  ARIM            | ARDOP   | https://www.whitemesa.net/arim/arim.html | v1.9 |
- chirp           | Util    |    http://trac.chirp.danplanet.com/chirp_daily/LATEST |  |
+ chirp           | Util    | http://trac.chirp.danplanet.com/chirp_daily/LATEST | 20180512 |
 
 
 ### Source Repositories for reference
