@@ -24,6 +24,8 @@ Contents &amp; script for generating a flash image for HAM radio using UDRC
  AX.25 lib/tools | Core    | https://github.com/ve7fet/linuxax25/archive/master.zip | 1.1.0 |
  paclink-unix    | Winlink | https://github.com/nwdigitalradio/paclink-unix | 0.7 |
  RMS Gateway     | Winlink | http://k4gbb.no-ip.info/docs/scripts/rmsgw-2.4.0-181.1.tar.bz2 | 2.4.0-181.1 |
+ UROnode         | Packet  | https://sourceforge.net/projects/uronode/files/uronode-2.8.1.tar.gz | 2.8.1 |
+ LinFBB          | Packet  | fbb | 7.05f-2 |
  nixtracker      | APRS    | https://github.com/n7nix/nixtracker | 1.2 |
  Xastir          | APRS    | xastir | v2.0.4 |
  fldigi          | HF      | https://sourceforge.net/projects/fldigi/files/fldigi/ | 4.0.16 |
@@ -39,6 +41,8 @@ Contents &amp; script for generating a flash image for HAM radio using UDRC
 * [paclink-unix](https://github.com/nwdigitalradio/paclink-unix)
 * [RMS Gateway](http://k4gbb.no-ip.info/docs/scripts)
 * [nixtracker](https://github.com/n7nix/nixtracker)
+* [UROnode](https://sourceforge.net/projects/uronode/)
+* [LinFBB](https://sourceforge.net/projects/linfbb/)
 * [Xastir](https://github.com/Xastir/Xastir)
 * [fldigi](https://sourceforge.net/projects/fldigi/files/fldigi/)
 * [WSJT](https://sourceforge.net/projects/wsjt/)
